@@ -1,0 +1,7 @@
+1. admin login page don't show - error
+2. when user don't login, New topic button enable - error
+3. when topic list are empty, the pagenation bar shows 1-10 - error
+4. when user login, there are no function to go to the home page. - error
+5. when topic was posted, there are no notifications - error
+6. When editing/adding a topic, only the topic for the forum that the user clicked on can be added - error
+7. user can not reply the topic created by himself
